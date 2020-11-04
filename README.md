@@ -1,2 +1,5 @@
 # heuristics_selection
-TODO
+TODO List:
+- Add main 
+- Add Libraries
+- Add example 
